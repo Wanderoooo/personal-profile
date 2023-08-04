@@ -9,10 +9,10 @@ export default function Info() {
       <p className="detail-two">personal website</p>
       <Buttons />
       <section className="aboutmore">
-      <h3>About</h3>
-      <p className="detail-two">about me spiel</p>
-      <h3>Interests</h3>
-      <p className="detail-two">interests spiel</p>
+      <h3 className = "h3s">About</h3>
+      <p className="detail-two spiel1">Lorem ipsum dolor sit amet. Ex maxime pariatur aut rerum quia est nemo modi. Et illo dolorem vel omnis galisum vel sapiente ipsam. Id neque</p>
+      <h3 className = "h3s">Interests</h3>
+      <p className="detail-two spiel2">Lorem ipsum dolor sit amet. Ex maxime pariatur aut rerum quia est nemo modi. Et illo dolorem vel omnis galisum vel sapiente ipsam. Id neque voluptatibus ut </p>
       </section>
       <Navbar />
     </div>
