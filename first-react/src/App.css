@@ -1,0 +1,81 @@
+.Appdiv {
+  text-align: center;
+  padding: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+.info {
+  background: #1a1b20;
+  height: 430px;
+  border-radius: 0 0 10px 10px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.profilepic {
+  border-radius: 10px 10px 0 0;
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-color: #22252c;
+  margin: 0;
+  padding-top: 5px;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.detail-two, .info h1, .info h3 {
+  color: white;
+}
+
+.detail-one {
+  color: #b8917f;
+  margin: 0px;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.detail-two {
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.info, .profilepic {
+  width: 290px;
+}
+
+.maincontent {
+  align-items: center;
+  justify-content: center;
+
+}
+
+.aboutmore {
+  text-align: left;
+  margin-left: 65px
+}
+
+.info h1, .detail-two {
+  margin: 0px;
+}
+
+.email, .linkedin {
+  width: 100px;
+  margin-top: 30px;
+  height: 40px;
+  color: white;
+  background-color: rgb(36, 127, 158);
+  border-color: rgb(36, 127, 158);
+  border-radius: 10px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0 20px;
+}
+
